@@ -3,7 +3,7 @@
 백준/프로그래머스 문제 풀이와 알고리즘 개념 정리.
 
 ## 🏆 Progress
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=백준아이디)](https://solved.ac/백준아이디)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=kimdooyan)](https://solved.ac/kimdooyan)
 
 ## 📘 개념 정리
 - [기초 입출력/반복문](notes/basic_io_loops.md)
