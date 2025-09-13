@@ -25,3 +25,18 @@ def bfs(start, graph, n):
                 q.append(nx)
     return dist
 
+---
+
+# 5) `coding-test/problems/` 샘플 풀이 파일
+
+`coding-test/problems/boj1000.py`
+```python
+"""
+BOJ 1000 A+B
+- 분류: 구현
+- 아이디어: 한 줄에 주어진 두 정수를 더한다.
+- 시간복잡도: O(1)
+"""
+A, B = map(int, input().split())
+print(A + B)
+
